@@ -5,5 +5,6 @@ var avengersMovie = {
 	director: "Joss Whedon"
 };
 
+console.log("i'm an idiot");
 
 console.log(avengersMovie);
